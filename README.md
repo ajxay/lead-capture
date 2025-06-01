@@ -20,7 +20,6 @@ Built with [NestJS](https://nestjs.com/), [Prisma](https://www.prisma.io/), and 
 
    ```bash
    git clone <your-repo-url>
-   cd meta-lead-capture
    ```
 
 2. **Install dependencies**
@@ -109,4 +108,5 @@ MIT – Use it, break it, fix it, share it.
 
 **Happy capturing!**  
 _(And may your leads be ever in your favor.)_
+
 # lead-capture
